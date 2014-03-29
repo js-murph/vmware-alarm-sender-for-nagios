@@ -22,7 +22,7 @@ Extract the vmware_sender directory onto your vCenter servers. Ensure there are 
 =========================================
 Configuration
 =========================================
-Below is a list of valid commands for the vmware_sender.ini file and what they are for:
+Below is a list of valid commands for the vmware_sender.ini file and what they are for:  
 [main]  
 strip_fqdn - 1 = Remove the fully qualified domain name from a hostname, 0 = Do not remove FQDN from a hostname.  
 process_perfdata - 1 = Attempt to process performance data if possible, 0 = Do not process perfdata.  
